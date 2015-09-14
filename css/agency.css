@@ -572,6 +572,9 @@ section#contact .section-heading {
 section#contact .text-danger {
   color: #e74c3c;
 }
+section#contact .fa {
+  padding-right: 6px;
+}
 footer {
   padding: 25px 0;
   text-align: center;
